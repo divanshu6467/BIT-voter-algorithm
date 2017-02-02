@@ -1,0 +1,1 @@
+# BIT-voter-algorithm
